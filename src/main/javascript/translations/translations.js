@@ -1,13 +1,13 @@
 angular.module('gettext')
     .run(function (gettextCatalog) {
         gettextCatalog.setStrings(
-            'ru', {
-                "Address":"Адрес",
-                "Change cheque №":"Изменить расписку №",
-                "notes":"Специальные отметки",
-                "new cheques":"Новые расписки",
-                "Customer":"Заказчик",
-                "Email":"Почта",
+            'en', {
+                "Address":"Address",
+                "Change cheque №":"Change check No",
+                "notes":"Notes",
+                "new cheques":"New Checks",
+                "Customer":"Customer",
+                "Email":"Email",
                 "Guarantee":"Гарантия (д/н)",
                 "help":"Помощь",
                 "Home":"Главная","Id":"№",
