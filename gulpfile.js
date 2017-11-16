@@ -19,7 +19,7 @@ const jslib = [
     'node_modules/angular-gettext/dist/angular-gettext.min.js',
     'node_modules/angular-ui-router/release/angular-ui-router.min.js',
     'node_modules/moment/min/moment.min.js',
-    'node_modules/moment/locale/ru.js',
+    'node_modules/moment/locale/en.js',
     'node_modules/angular-moment/angular-moment.min.js',
     'node_modules/angular-material/angular-material.min.js',
     'node_modules/angular-material-data-table/dist/md-data-table.min.js',
